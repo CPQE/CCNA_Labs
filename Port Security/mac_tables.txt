@@ -1,0 +1,27 @@
+MAC with first PC connected (fuzzed for confidentiality): 
+Vlan    Mac Address       Type        Ports
+----    -----------       --------    -----
+ All    0780.0ccc.cfcc    STATIC      CPU
+ All    0780.0ccc.cacd    STATIC      CPU
+ All    0780.0ccd.cgdc    STATIC      CPU
+ All    0780.c300.d3ea    STATIC      CPU
+ All    0780.c300.0001    STATIC      CPU
+ All    0780.c300.0002    STATIC      CPU
+ All    0780.c300.0003    STATIC      CPU
+ All    0780.c300.0004    STATIC      CPU
+ All    0780.c300.0005    STATIC      CPU
+ All    0780.c300.0006    STATIC      CPU
+ All    0780.c201.0007    STATIC      CPU
+ All    0780.c201.0008    STATIC      CPU
+ All    0780.c201.0009    STATIC      CPU
+ All    0780.c201.000a    STATIC      CPU
+ All    0780.c201.000b    STATIC      CPU
+ All    0780.c201.000c    STATIC      CPU
+ All    0780.c201.000d    STATIC      CPU
+ All    0780.c201.000e    STATIC      CPU
+ All    0780.c201.000f    STATIC      CPU
+ All    0780.c601.0010    STATIC      CPU
+ All    ffff.ffff.ffff    STATIC      CPU
+ 100    7c7e.0320.2981    STATIC      Gi0/1
+
+stays unchanged after connecting new pc. 
