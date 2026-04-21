@@ -10,3 +10,7 @@ ip dhcp pool POOL1
  dns-server 192.168.1.1
 
 
+ip domain name cyrusnetworklab.com
+ip host R1gw.cyrusnetworklab.com 192.168.1.1
+ip host github.cyrusnetworklab.com 140.82.116.4
+ip host printer1.cyrusnetwork.lab.com 192.168.1.12
