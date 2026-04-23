@@ -14,5 +14,6 @@ interface GigabitEthernet0/1
  switchport access vlan 100
  switchport mode access
  switchport port-security violation restrict
- switchport port-security aging time 10
+ switchport port-security mac-address fxxx.xxx.xx11
+ switchport port-security aging time 20
  switchport port-security
